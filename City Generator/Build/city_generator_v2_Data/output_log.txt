@@ -1,0 +1,24 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1984 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+desktop: 1600x900 60Hz; virtual: 2880x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Sasha\Documents\Unity Projects\City Generator\Build\city_generator_v2_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 178c -> priority: 1 
+  Thread -> id: 1fe8 -> priority: 1 

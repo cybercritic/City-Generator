@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3C83F8F0-3817-1AFD-CEAA-8EA213DC7871}") = "City Generator", "Assembly-CSharp.csproj", "{B1D3A3F1-8758-508D-D5A2-F324F041A3C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D3A3F1-8758-508D-D5A2-F324F041A3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D3A3F1-8758-508D-D5A2-F324F041A3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D3A3F1-8758-508D-D5A2-F324F041A3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D3A3F1-8758-508D-D5A2-F324F041A3C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
